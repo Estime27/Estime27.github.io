@@ -2,17 +2,17 @@ project:
   type: website
 
 website:
-  title: "Your_Name Data Science Portfolio"
+  title: "Estime Musema Kongolo Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/your_url
+  repo-url: https://github.com/https://github.com/Estime27/Estime27.github.io.git
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2023©"
+    left: "Estime Musema Kongolo 2023©"
     right: 
-      - icon: linkedin
+      - icon: https://www.linkedin.com/in/estimemusemakongolo/
         href: Your_LinkedIn_URL
 
   navbar:
